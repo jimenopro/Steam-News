@@ -1,23 +1,23 @@
 [
     {
-        "capsule": "../img/gothicarmada_184x69-jpg",
+        "capsule": "img/gothicarmada_184x69-jpg",
         "title": "Midweek Madness - Battlefleet Gothic: Armada, 50% Off",
         "date": "28 Feb, 5:00pm",
         "body": "Save 50% on Battlefleet Gothic: Armada during this week's Midweek Madness*! <br><br>Battlefleet Gothic: Armada is the RTS videogame adaptation of Games Workshop’s classic tabletop game, pitting the Chaos, Imperium, Eldar, and Orks against each other in visceral space-battles.<br><br>Developed with Unreal Engine 4, Battlefleet Gothic: Armada offers deep management of every ship composing the player’s fleet, both during and between battles. From the fastest frigates to the gigantic, miles-long battleships, the player will customize all aspects of his ships: weaponry, defense and support sub-systems, but also crew, captains, and more... each customization affecting the very performances of the ship and the special abilities available during battle. From battle to battle, the admirals and crew of surviving ships will gain experience and promotions, improving the battle-readiness of the ships for future, bigger and more dangerous battles.<br><br>*Offer ends Friday at 10AM Pacific Time",
-        "img": "../img/gothicarmada_467x181.jpg"
+        "img": "img/gothicarmada_467x181.jpg"
     },
     {
-        "capsule": "../img/steam_logo.png",
+        "capsule": "img/steam_logo.png",
         "title": "Evolving Steam",
         "date": "10 Feb, 11:00am",
         "body": "When we consider any new features or changes for Steam, our primary goal is to make customers happy. We measure that happiness by how well we are able to connect customers with great content. We’ve come to realize that in order to serve this goal we needed to move away from a small group of people here at Valve trying to predict which games would appeal to vastly different groups of customers.<br><br>Thus, over Steam’s 13-year history, we have gradually moved from a tightly curated store to a more direct distribution model. In the coming months, we are planning to take the next step in this process by removing the largest remaining obstacle to having a direct path, Greenlight. Our goal is to provide developers and publishers with a more direct publishing path and ultimately connect gamers with even more great content.",
-        "img": "../img/steamwallpaper.jpg"
+        "img": "img/steamwallpaper.jpg"
     },
     {
-        "capsule": "../img/steam_logo.png",
+        "capsule": "img/steam_logo.png",
         "title": "More Updates to The Steam Customer Review System",
         "date": "13 Sep, 2016, 2:00am",
         "body": "Over the past few months, we've been reading your feedback and reports on the Steam Customer Review System. In addition, we've been looking at the different ways customer reviews are being used on Steam and evaluating which aspects of the feature need the most improvement. In May of this year we made changes to highlight the recent reviews on games to better show the current state of quickly evolving products (read more about those changes here). Now we are releasing the next update, which adds more filtering and sorting options for the displayed reviews, and sets some new defaults to highlight the recent, helpful, and relevant reviews.",
-        "img": "../img/ReviewUpdateSept.jpg"
+        "img": "img/ReviewUpdateSept.jpg"
     }
 ]
