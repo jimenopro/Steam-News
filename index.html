@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Steam News</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/css.css">
+        <link href="img/favicon.ico" rel="icon" type="image/x-icon" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="js/js.js"></script>
+    </head>
+    <body>
+        <div class="jumbotron">
+            <div class="container text-center">
+                <h1>STEAM NEWS</h1>
+                <h3>This is my project of a news web page.</h3>
+            </div>
+        </div>
+
+        <div id="contenido" class="container-fluid">
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>                        
+                        </button>
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="index.html"><img src="img/steam_logo.png" class="img-responsive" alt="Responsive image"></a>
+                        </div>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="index.html">All</a></li>
+                            <li><a href="#">Category 1</a></li>
+                            <li><a href="#">Category 2</a></li>
+                        </ul>
+                        <form class="navbar-form navbar-left">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search">
+                            </div>
+                            <button type="submit" class="btn btn-default">Submit</button>
+                        </form>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div id="publicidad">
+            </div>
+            <div id="noticias">
+                <div class="noticia">
+                    <img src="img/fallout4_184x69.jpg" class="capsule" alt="Responsive image">
+                    <div class="headline">
+                        <div class="title"><a href="news1.html">Fallout 4 mod turns your shotgun into a landscaping tool</a></div>
+                    </div>
+                    <br>
+                    <div class="body">
+                        <p>We've seen some weird, whacky and wonderful mods grace Fallout 4's Commonwealth since its late 2015 launch, however it seems there's always room for more. After launching his Trash Collection mod last week, GenghisKhanX is back with another designed to further spruce up toxic Boston.
+                            <br><br>Named The Beautifier, this mod lets players restore some greenery to the ever-ailing wasteland with one crucial catch: you do so with a shotgun.
+                            <br><br>Which naturally leads to some pretty hilarious scenes as you take aim and batter out clumps of grass, reeds, rose bushes, decorative rocks and more to your heart's content. The creatives among us will produce some wonderful gardens I'm sure, however the the forceful application involved here reminds me of the shotgun shots from It's Always Sunny in Philadelphia.</p>
+                        <img src="img/fallout4_big.jpg" class="img-responsive" alt="Responsive image">
+                        <div class="date">10 May, 5:15am</div>
+                    </div>
+                </div>
+                <div class="noticia">
+                    <img src="img/skyrim_184x69.jpg" class="capsule" alt="Responsive image">
+                    <div class="headline">
+                        <div class="title"><a href="news2.html">Skyrim modder creates mysterious potion</a></div>
+                    </div>
+                    <br>
+                    <div class="body">
+                        <p>Skyrim's modding scene is one of the PC's most incredible and diverse. It's a canvas on which artists can paint with their imagination, making everything from total conversion mods to ones that simply add capes. But every once in awhile, a mod comes around possessing such immense artistic vision even its own creator can't comprehend it.
+                            <br><br>No, seriously, this person has no idea what their mod even does, and they're asking people to figure it out for them.
+                            <br><br>"Literally, this was by far the worst idea I've ever had," writes its creator, Chocolate Milk. "And trust me, that's really saying something." See, instead of creating a mod that adds some useful functionality to Skyrim, Chocolate Milk made a potion.</p>
+                        <img src="img/potions.jpg" class="img-responsive" alt="Responsive image">
+                        <div class="date">21 Apr, 10:49pm</div>
+                    </div>
+                </div>
+                <div class="noticia">
+                    <img src="img/64.0_184x69.jpg" class="capsule" alt="Responsive image">
+                    <div class="headline"> 
+                        <div class="title"><a href="#">UPDATE 1.01</a></div>
+                    </div>
+                    <br>
+                    <div class="body">
+                        <p>HEY, GUYS!
+                            <br><br>We have been reading all of your feedback and after working all weekend, finally we have our first update!
+                            <br><br>This update brings some fixes and features you have been asking: 
+                            <br><br>1. We have improved the beat synchronization.
+                            <br><br>This is the main complaint about the game. And you are totally right. Unfortunately, this is also the most difficult thing to fix, so it took us some time. The game should have better synchronization now, but if you find more issues regarding to this, let us know in the 'discussion section'. </p>
+                        <img src="img/64.0_big.jpg" class="img-responsive" alt="Responsive image">
+                        <div class="date">31 Mar, 2:34pm</div>
+                    </div>
+                </div>
+            </div>
+            <button type="button" id="btnMore" class="btn btn-primary btn-lg">More news</button>
+        </div>
+        <button id="scrollup" type="button" class="btn btn-primary">
+            <span class="glyphicon glyphicon-chevron-up"></span>
+        </button>
+        <div class="footer">
+            <ul class="footer-links"> 
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Google+</a></li>
+                <li><a href="#">About</a></li> 
+            </ul> 
+            <p>Developed by Pedro Amat</p>
+        </div>
+    </body>
+</html>
