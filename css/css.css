@@ -23,7 +23,7 @@ body, html{
 #publicidad {
     border: 1px solid rgba(255, 255, 255, 0.1);
     color: rgb(198, 212, 223);
-    background-image: url("../img/publi_ver.png");
+    background-image: url("https://raw.githubusercontent.com/PedroAmat/Steam-News/master/img/publi_ver.png");
     background-size: 100% 100%;
 }
 .noticia {
@@ -173,7 +173,7 @@ ul {
         width: auto;
         float: none;
         margin-bottom: 20px;
-        background-image: url("../img/SW1313_logo.png");
+        background-image: url("https://raw.githubusercontent.com/PedroAmat/Steam-News/master/img/SW1313_logo.png");
     }
     #publicidad div {
         padding: 5px;
