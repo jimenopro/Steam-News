@@ -7,6 +7,12 @@ body, html{
     background-color: rgb(23, 26, 33);
     color: rgb(198, 212, 223);
 }
+#logo {
+    vertical-align: top;
+}
+#logo, #header {
+    display: inline-block;
+}
 .navbar {
     background-color: rgb(23, 26, 33);
 }
@@ -161,10 +167,16 @@ ul {
         margin-bottom: 40px;
     }
     #btnMore {
-        margin-left: 37%;
+        margin-left: 25%;
     }
 }
 @media screen and (max-width: 879px){
+    .jumbotron h1 {
+        font-size: 45px;
+    }
+    #logo {
+        max-width: 100px;
+    }
     #contenido {
         padding: 10px;
     }
