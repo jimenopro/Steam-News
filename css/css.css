@@ -73,11 +73,10 @@ body, html{
 .footer{
     background-color: rgb(23, 26, 33);
     color: rgb(198, 212, 223);
-    height: 150px;
+    height: 100px;
     padding: 20px;
 }
 .footer li:hover {
-    color: rgb(0, 0, 200);
     cursor: pointer;
 }
 a:hover, a:focus {
@@ -85,12 +84,10 @@ a:hover, a:focus {
 }
 .footer p {
     margin-bottom: 0;
-    bottom: 0;
     float: right;
     color: #56707f;
 }
 ul {
-    padding: 0;
     list-style-type: none;
 }
 #scrollup {
