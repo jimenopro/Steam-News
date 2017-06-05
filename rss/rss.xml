@@ -1,40 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-    <noticias>
-        <title>Steam News</title>
-        <link>https://rawgit.com/PedroAmat/Steam-News/master/index.html</link>
-        <description>This is my project of a news website</description>
-        
-        <noticia>
-            <title>Fallout 4 mod turns your shotgun into a landscaping tool</title>
-            <link>https://rawgit.com/PedroAmat/Steam-News/master/news1.html</link>
-            <body>We've seen some weird, whacky and wonderful mods grace Fallout 4's Commonwealth since its late 2015 launch, 
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0"><noticias><title>Steam News</title><link>https://rawgit.com/PedroAmat/Steam-News/master/index.html</link><description>This is my project of a news website</description><noticia><title>Fallout 4 mod turns your shotgun into a landscaping tool</title><link>https://rawgit.com/PedroAmat/Steam-News/master/news1.html</link><body>We've seen some weird, whacky and wonderful mods grace Fallout 4's Commonwealth since its late 2015 launch, 
                 however it seems there's always room for more. After launching his Trash Collection mod last week, GenghisKhanX is back with another designed to further spruce up toxic Boston. 
                 Named The Beautifier, this mod lets players restore some greenery to the ever-ailing wasteland with one crucial catch: you do so with a shotgun. 
                 Which naturally leads to some pretty hilarious scenes as you take aim and batter out clumps of grass, reeds, rose bushes, decorative rocks and more to your heart's content. 
-                The creatives among us will produce some wonderful gardens I'm sure, however the the forceful application involved here reminds me of the shotgun shots from It's Always Sunny in Philadelphia.</body>
-            <date>10 May, 5:15am</date>
-        </noticia>
-        <noticia>
-            <title>Skyrim modder creates mysterious potion</title>
-            <link>https://rawgit.com/PedroAmat/Steam-News/master/news2.html</link>
-            <body>Skyrim's modding scene is one of the PC's most incredible and diverse. It's a canvas on which artists can paint with their imagination, 
+                The creatives among us will produce some wonderful gardens I'm sure, however the the forceful application involved here reminds me of the shotgun shots from It's Always Sunny in Philadelphia.</body><date>10 May, 5:15am</date></noticia><noticia><title>Skyrim modder creates mysterious potion</title><link>https://rawgit.com/PedroAmat/Steam-News/master/news2.html</link><body>Skyrim's modding scene is one of the PC's most incredible and diverse. It's a canvas on which artists can paint with their imagination, 
                 making everything from total conversion mods to ones that simply add capes. But every once in awhile, a mod comes around possessing such immense artistic vision even its own creator can't comprehend it. 
                 No, seriously, this person has no idea what their mod even does, and they're asking people to figure it out for them. 
                 "Literally, this was by far the worst idea I've ever had," writes its creator, Chocolate Milk. 
-                "And trust me, that's really saying something." See, instead of creating a mod that adds some useful functionality to Skyrim, Chocolate Milk made a potion.</body>
-            <date>21 Apr, 10:49pm</date>
-        </noticia>
-        <noticia>
-            <title>UPDATE 1.01</title>
-            <link>https://rawgit.com/PedroAmat/Steam-News/master/index.html#</link>
-            <body>HEY, GUYS! 
+                "And trust me, that's really saying something." See, instead of creating a mod that adds some useful functionality to Skyrim, Chocolate Milk made a potion.</body><date>21 Apr, 10:49pm</date></noticia><noticia><title>UPDATE 1.01</title><link>https://rawgit.com/PedroAmat/Steam-News/master/index.html#</link><body>HEY, GUYS! 
                 We have been reading all of your feedback and after working all weekend, finally we have our first update! 
                 This update brings some fixes and features you have been asking: 
                 1. We have improved the beat synchronization. 
                 This is the main complaint about the game. And you are totally right. Unfortunately, this is also the most difficult thing to fix, so it took us some time. 
-                The game should have better synchronization now, but if you find more issues regarding to this, let us know in the 'discussion section'.</body>
-            <date>31 Mar, 2:34pm</date>
-        </noticia>
-    </noticias>
-</rss>
+                The game should have better synchronization now, but if you find more issues regarding to this, let us know in the 'discussion section'.</body><date>31 Mar, 2:34pm</date></noticia></noticias></rss>
