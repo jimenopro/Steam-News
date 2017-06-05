@@ -1,5 +1,5 @@
 # Steam-News
-Enllaç de rawgit: https://rawgit.com/PedroAmat/Steam-News/master/index.html
+Enllaç de rawgit: https://rawgit.com/PedroAmat/Steam-News/minify/index.html
 ## Especificacions del client:
 
 * La maquetació (layer design) ha de deixar 300 px d'espai a la dreta de la pantalla per publicitat si la pantalla és suficientment ample. Tot altre diseny és lliure.
