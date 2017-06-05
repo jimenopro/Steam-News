@@ -4,7 +4,7 @@ Enllaç de rawgit: https://rawgit.com/PedroAmat/Steam-News/master/index.html
 
 * La maquetació (layer design) ha de deixar 300 px d'espai a la dreta de la pantalla per publicitat si la pantalla és suficientment ample. Tot altre diseny és lliure.
 * Per dispositius mòbils, la publicitat anirá fixada a la part inferior o bé només es mostrará a la part superior (i desapareixerà en fer scroll) amb un alt de 90px. Pots triar l'opció. Tot altre diseny és lliure.
-* Les dades són: títol (entorn a 8 paraules), imgbig (url al json, imatge a la carpeta), imgmid (url al json, imatge a la carpeta), descripció (mínim de 300 caràcters), data i hora (datetime). \b S'ha optat per incloure només un tipus d'imatge que tendrá un tamany diferent si entram a la pàgina d'una noticia concreta o a la general.
+* Les dades són: títol (entorn a 8 paraules), imgbig (url al json, imatge a la carpeta), imgmid (url al json, imatge a la carpeta), descripció (mínim de 300 caràcters), data i hora (datetime). S'ha optat per incloure només un tipus d'imatge que tendrá un tamany diferent si entram a la pàgina d'una noticia concreta o a la general.
 * Totes les notícies han de tenir el mateix format i mostrar les dades especificades de forma elegant a tot dispositiu.
 ## Tasques realitzades:
 
