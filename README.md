@@ -15,3 +15,8 @@ Enllaç de rawgit: https://rawgit.com/PedroAmat/Steam-News/master/index.html
 * S'ha codificat news1.html i news2.html, pàgines que corresponen a les dues primeres noticies (darreres publicades). Quan feim clic a la notícia 1 de news.html ens va a news1.html, quan feim clic a la notícia 2 de news.html ens va a news2.html.
 * La plantilla o pàgina de veure una sola notícia news1.html (news2.html és idèntica) conté una imatge i un vídeo de youtube responsive. 
 * Cada pàgina conté les etiquetes meta (amb open graph) per compartir títol, descripció, imatge (gran), nom de l'aplicació i url de la pàgina.
+## Implementacions adicionals
+
+* La pàgina conte una barra de navegació fixa a la part superior que, en cas de extendre la aplicació, serviria per accedir a categories concretes de noticies i per iniciar sessió a una compta d'usuari. Actualment, només conté un enllaç a la pàgina principal, la resta és contingut estètic.
+* S'ha implementat un botó a la pàgina principal que permet tornar a al principi de la pàgina sense recarregar-la.
+* La pàgina inclou un footer amb botons per compartir a Facebook, Twitter i Google+.
