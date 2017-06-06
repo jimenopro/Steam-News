@@ -23,4 +23,4 @@ Enllaç de rawgit: https://rawgit.com/PedroAmat/Steam-News/master/index.html
 * La pàgina inclou un footer amb botons per compartir a Facebook, Twitter i Google+.
 
 ## Boceto de la página
-<a href="https://rawgit.com/arsg93/Noticias/master/Boceto%20pagina.jpg" target="_blank"><img src="https://rawgit.com/arsg93/Noticias/master/Boceto%20pagina.jpg" border="0" alt="Boceto"></a>
+<a href="https://raw.githubusercontent.com/PedroAmat/Steam-News/master/Boceto.jpg" target="_blank"><img src="https://raw.githubusercontent.com/PedroAmat/Steam-News/master/Boceto.jpg" border="0" alt="Boceto"></a>
