@@ -21,3 +21,6 @@ Enllaç de rawgit: https://rawgit.com/PedroAmat/Steam-News/minify/index.html
 * La pàgina conte una barra de navegació fixa a la part superior que, en cas de extendre la aplicació, serviria per accedir a categories concretes de noticies i per iniciar sessió a una compta d'usuari. Actualment, només conté un enllaç a la pàgina principal, la resta és contingut estètic.
 * S'ha implementat un botó a la pàgina principal que permet tornar a al principi de la pàgina sense recarregar-la.
 * La pàgina inclou un footer amb botons per compartir a Facebook, Twitter i Google+.
+
+## Boceto de la página
+<a href="https://raw.githubusercontent.com/PedroAmat/Steam-News/minify/Boceto.jpg" target="_blank"><img src="https://raw.githubusercontent.com/PedroAmat/Steam-News/minify/Boceto.jpg" border="0" alt="Boceto"></a>
